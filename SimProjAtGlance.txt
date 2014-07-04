@@ -1,0 +1,3 @@
+SimProj At Glance
+
+Simproj is a software simulation for learning Project Management. We try to acommadate learning by doing approach to introduce Project Management concept.
